@@ -101,8 +101,7 @@ github에서 새로운 리포지토리 생성
 - `git push -u origin +master`
 
  “+”옵션을 사용하여 강제 push
-
-![Untitled](Github%E1%84%86%E1%85%A6%E1%84%86%E1%85%A9%201fed820c4ad54549bd3298053a3f133a/Untitled.png)
+![Untitled](/Github메모%201fed820c4ad54549bd3298053a3f133a/Untitled.png)
 
 ## .gitignore 생성 사이트
 
