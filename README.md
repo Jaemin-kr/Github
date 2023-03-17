@@ -103,6 +103,9 @@ github에서 새로운 리포지토리 생성
  “+”옵션을 사용하여 강제 push
 ![Untitled](/Github메모%201fed820c4ad54549bd3298053a3f133a/Untitled.png)
 
+
+## git, github, gitlab, gitaction 차이
+
 ## .gitignore 생성 사이트
 
 
