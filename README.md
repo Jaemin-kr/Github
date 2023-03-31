@@ -101,7 +101,7 @@ github에서 새로운 리포지토리 생성
 - `git push -u origin +master`
 
  “+”옵션을 사용하여 강제 push
-![Untitled](/Github메모%201fed820c4ad54549bd3298053a3f133a/Untitled.png)
+![Untitled](/images/Untitled.png)
 
 
 ## github README.md 이미지 사이즈 조절
