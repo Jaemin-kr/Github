@@ -104,6 +104,11 @@ github에서 새로운 리포지토리 생성
 ![Untitled](/Github메모%201fed820c4ad54549bd3298053a3f133a/Untitled.png)
 
 
+## github README.md 이미지 사이즈 조절
+```html
+<img src = "Image Address/Image.png" width="width % or pixel" height="height % or pixel">
+```
+
 ## git, github, gitlab, gitaction 차이
 
 ## .gitignore 생성 사이트
